@@ -14,4 +14,4 @@ TABLE OF CONTENTS
 
 * [Sales Performance Review Dashborad](/SalesPerformanceReview.xlsx) - This project focused on reviewing sales data and creating a dashboard to report on sales perfomance over a three year period. Environment - Excel.
 
-* [Movie Data Correlation in Python](/Data%20Correlation%20in%20Python.ipynb) - The purpose of this project was to identify correlation betweeen several movie features (such as budget, gross earnings, release date and so on).
+* [Movie Data Correlation in Python](/Data%20Correlation%20in%20Python.ipynb) - The purpose of this project was to identify factors that affect the gross earnings of a movie.
