@@ -8,4 +8,4 @@ Tools Used: Excel, SQL, Python
 
 TABLE OF CONTENTS
 
-[Covid19_Data_Exploration_Portfolio_Project](PortfolioProjects/Covid19_Data_Exploration_Portfolio_Projec.sql)
+[Covid19_Data_Exploration_Portfolio_Project](/Covid19_Data_Exploration_Portfolio_Projec.sql)
