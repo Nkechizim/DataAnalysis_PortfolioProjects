@@ -6,4 +6,6 @@ This Repository will hold all of the code and queries from the different data-an
 
 Tools Used: Excel, SQL, Python
 
+TABLE OF CONTENTS
 
+[Covid19_Data_Exploration_Portfolio_Project](PortfolioProjects/Covid19_Data_Exploration_Portfolio_Projec.sql)
