@@ -8,7 +8,7 @@ Tools Used: Excel, SQL, Python
 
 TABLE OF CONTENTS
 
-* [Covid19 Data Exploration Portfolio Project](/Covid19_Data_Exploration_Portfolio_Projec.sql) - The main purpose of this project was to explore the most recent data concerning the covid pandemic of 2019 and it's evolution over time, draw some insights and make predictions. This project was carried out using SQL(PostgreSQL) and a dashboard was created in Tableau.
+* [Covid19 Data Exploration Portfolio Project](/Covid19_Data_Exploration.sql) - The main purpose of this project was to explore the most recent data concerning the covid pandemic of 2019 and it's evolution over time, draw some insights and make predictions. This project was carried out using SQL(PostgreSQL) and a dashboard was created in Tableau.
 
 * [Nashing Housing Data Cleaning Project](/NashvilleHousingPrortfolioProject.sql) - This project focused on thorough data cleaning using SQL
 
